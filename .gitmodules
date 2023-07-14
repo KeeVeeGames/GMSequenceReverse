@@ -1,3 +1,6 @@
 [submodule "scripts/animcurve"]
 	path = scripts/animcurve
 	url = https://github.com/KeeVeeGames-Modules/js-animcurve
+[submodule "style/shared"]
+	path = style/shared
+	url = https://github.com/KeeVeeGames-Modules/css-gmreverse
